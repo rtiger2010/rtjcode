@@ -2,7 +2,7 @@
  * Class to determine total cost of the item including Tax
  * @author: deepak
  */
-package edureka;
+
 import java.util.*;
 
 public class calculateTax {
